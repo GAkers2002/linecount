@@ -1,8 +1,7 @@
 # linecount
 Created for COS350
 
-Three C programs that count the number of lines in a file and returns how fast it was
-
+Three C programs that count the number of lines in a file and returns how fast it was<br/>
 
 lc1.c
 
